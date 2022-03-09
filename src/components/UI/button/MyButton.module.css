@@ -1,0 +1,17 @@
+body{
+    font-family: Arial;
+}
+.myBtn {
+    padding: 5px 15px;
+    color: teal;
+    font-size: 14px;
+    background: transparent;
+    border: 1px solid teal;
+    cursor: pointer;
+    transition: 0.3s ease all;
+}
+
+.myBtn:hover {
+    background-color: #2f7465;
+    color: #fff;
+}
